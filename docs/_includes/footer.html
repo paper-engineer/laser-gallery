@@ -18,10 +18,10 @@
               site.data[site.lang].footer.pages | default: "Pages" }}</span>
             <ul>
               
-              {% for link in site.data.navigation %}
+              {% for item in site.data.navigation %}
               <li>
                 <a class="text-slate-600 hover:text-slate-800 dark:text-slate-300 dark:hover:text-slate-200 "
-                  href="{{ link.link | relative_url }}">{{ link.name }}</a>
+                  href="{{ item.link | relative_url }}">{{ item.name }}</a>
               </li>
               {% endfor %}
    
