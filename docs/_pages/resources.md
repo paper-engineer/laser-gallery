@@ -3,9 +3,13 @@ title: resources
 layout: page
 ---
 
+[link to instructions page](https://paper-engineer.github.io/laser-gallery/instructions/)
+
+## design
+
 get inkscape
 
-## where to find designs
+### where to find designs
 
 obrary, idk
 
@@ -14,6 +18,10 @@ paid sources
 fb groups
 
 that kind of thing
+
+### customising
+
+can be done in inkscape, watch the licensing, or lightburn has a couple of simple ones
 
 ## materials and settings
 
