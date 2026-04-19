@@ -11,6 +11,10 @@ start with inkscape
 
 wood, etc
 
+### sources
+
+where to find designs (link to page)
+
 ## cut
 
 lightburn
