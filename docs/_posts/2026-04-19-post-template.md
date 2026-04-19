@@ -16,4 +16,5 @@ description here
 Material: 
 Settings: 
 
-I'll find the right sample post for further images
+For pictures use 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
