@@ -32,6 +32,10 @@ connect, camera calibration
 
 have all the kit
 
+## dialing in feeds and speeds
+
+run a test piece
+
 ## maintenance 
 
 there is a list
