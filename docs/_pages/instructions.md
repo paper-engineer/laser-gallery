@@ -4,10 +4,6 @@ layout: page
 ---
 there's a way to organise this better, too. do it by onenote headings another day. 
 
-### sources
-
-where to find designs (link to page)
-
 ## safety check
 
 first make sure the fire extinguisher etc and you know where things are and what the deal is and all the kit is nice and whatever
