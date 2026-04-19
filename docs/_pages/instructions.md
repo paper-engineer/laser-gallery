@@ -15,6 +15,10 @@ wood, etc
 
 where to find designs (link to page)
 
+## safety
+
+first make sure the fire extinguisher etc and you know where things are and what the deal is
+
 ## cut
 
 lightburn
@@ -36,4 +40,4 @@ feeds and speeds and that sort of thing
 there is a list
 
 ---
-there's a way to organise this better, too
+there's a way to organise this better, too. do it by onenote headings another day. 
