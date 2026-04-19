@@ -4,10 +4,6 @@ layout: page
 ---
 there's a way to organise this better, too. do it by onenote headings another day. 
 
-## design
-
-start with inkscape or something
-
 ### sources
 
 where to find designs (link to page)
