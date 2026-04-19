@@ -1,21 +1,80 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+# site info
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+#domain: example.com
+url: "https://paper-engineer.github.io"
+baseurl: "/laser-gallery"
+
+title: Laser Gallery
+description: by Third Eel Productions
+logo: /siteicon.png
+
+author: MOG (the third eel)
+email: 
 
 lang: en
+timezone: NZ
+
+# build info
 
 plugins:
   - jekyll-seo-tag
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+# configuration
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      image:
+        width: 2000
+        height: 1322
+        resize_style: cover
+      bottom_image:
+        width: 2000
+        height: 1322
+        resize_style: cover
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        image:
+          width: 2000
+          height: 1322
+          resize_style: cover
+          uploads_dir: "/images/post_uploads"
+        content:
+          width: 1500
+          height: 2000
+          uploads_dir: "/images/post_uploads"
 
 color: "#13ccf9"
 # disqus:
 #   shortname: example-com
 #
 rrss:
-  email: "example@example.cl"
-  telegram: "https://t.me/"
-  discord: "https://discord.com/"
+  email: 
+  telegram: 
+  discord: 
