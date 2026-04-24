@@ -47,6 +47,7 @@
 .gallery-item {
   position: relative;
   overflow: hidden;
+  margin-bottom: 1rem; /* controls vertical gap */
 }
 
 /* Estilo para el overlay */
