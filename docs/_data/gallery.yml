@@ -3,6 +3,9 @@ photos:
     url: https://picsum.photos/200/300
     quote: This is a quote
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: https://picsum.photos/200/300
+    quote: This is a quote too
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: https://picsum.photos/800/800
     quote: This is a quote 🐬
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
