@@ -3,6 +3,8 @@ title: resources
 layout: page
 ---
 
+## instructions for using laser
+
 [link to instructions page](https://paper-engineer.github.io/laser-gallery/instructions/)
 
 ## safety resources
