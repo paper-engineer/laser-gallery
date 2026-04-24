@@ -5,6 +5,19 @@ layout: page
 
 [link to instructions page](https://paper-engineer.github.io/laser-gallery/instructions/)
 
+## safety resources
+
+link to resource about OD
+
+chem notes list of legit companies: laserglow, thorlabs, honeywell, glendale, sperian, newport/mks, edmund optics, laservision/uvex, noIR (lasershield). expect rating etched somewhere on glasses. yamamoto seems legit (CE certified). 
+
+### a method for safely testing laser "glasses"
+1- adjust the power to something “safe” that does not burn a white sheet of paper.
+the wavelength is the same regardless of power.
+2- place the glasses between the laser and paper
+3- looking at the paper: you should see that very little or none focused light gets to the paper.
+this way you know that the glasses absorbed the light. (or reflected it - so try varying the angle.)
+
 ## where to find designs
 
 obrary, idk. I googled "download svg for laser" and got a bunch of free files, some of which can be used commercially. https://www.xtool.com/blogs/buyer-guide/free-laser-cut-files 
