@@ -1,4 +1,4 @@
 ---
-title: Gallery
+title: gallery
 layout: gallery
 ---
