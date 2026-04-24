@@ -1,6 +1,6 @@
 ---
 title: contact
-layout: page
+layout: page-center
 ---
 ## Contact information goes here
 
