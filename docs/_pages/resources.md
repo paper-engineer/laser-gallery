@@ -88,21 +88,6 @@ plywood/mdf sourcing
  
 those little stainless ae tags will need a jig. which I can make. for larger surface to do feeds and speeds testing, you can get little KS metals 100x250 sheets from m10/bunnings for $15, or order in one from ae.
 
-## things I can make
-
-things I want to make and/or they will probably sell
-- the monster box, just because it's fun
-- living hinges box designs, assorted. and/or bag. tbh just make a floppy sheet to play with
-- stupidly complex models you can roll marbles down. with the crank and everything.
-- business cards in alu because they're cool, okay. branding stuff.
-- notebooks, like b's. specifically, make two A5 living hinge notebooks with my two available ring-binder-thingies, drop one product sample on b and the other on niki.
-- game pieces, like, catan or whatever, but also standup silhouettes
-- personalise little pieces of kit, like, water bottles and stuff
-- dice towers and deck holders or whatever
-- puzzles and boardgames like those fb listings
-
-obviously you can do stainless tags and tumblers and whatnot. jewellery, clocks, artwork and mandalas and things
- 
 ### people and places to leave sample kit around
 
 - just friendly: downstairs with mandy, say hi to all my neighbours with house numbers on acrylic (ehhhh expensive though) or I guess we can spray finish it, give b a notebook thingy, drop a mandala on v
@@ -111,12 +96,3 @@ obviously you can do stainless tags and tumblers and whatnot. jewellery, clocks,
 - at dance
 - on the desk at 3bros lol
 - commissioning personnel nameplates
-
-## about the laser
-
-falcon 2 pro 40w, workspace 400x415, but it can fit 460x460 just extends out past cutting area. max is uh I found this somewhere. just for info only.
-risers are M6 standard feet. these are 533x546 centres.
-my separate inline fan uses 150mm ducting
-tray can be removed and disable that safety using the buttons underneath on the bottom left (covered by tray usually)
-that lets me run bigger items with one end sticking out, but I'd have to cut to get a full conveyor pass through, more effort than worth
-455nm diode
