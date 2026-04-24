@@ -20,16 +20,6 @@ this way you know that the glasses absorbed the light. (or reflected it - so try
 
 chem notes list of legit companies: laserglow, thorlabs, honeywell, glendale, sperian, newport/mks, edmund optics, laservision/uvex, noIR (lasershield). expect rating etched somewhere on glasses. he's asked on machinist discord about yamamoto.
 
-## design
-
-checklist for design
-vector (format pls)
-pathing
-nesting
-
-hmmm living hinge generator
-rounded slot ends is good for hinges, see how we go
-
 ## cut
 
 lightburn
