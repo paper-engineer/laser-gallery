@@ -11,15 +11,11 @@ obrary, idk. I googled "download svg for laser" and got a bunch of free files, s
 
 paid sources: https://www.creativefabrica.com/ and others
 
-https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a bonus profit calculator
-
-hmmm living hinge generator
-
 fb groups https://www.facebook.com/groups/1554309237985182 https://www.facebook.com/groups/falconlaserengraver https://www.facebook.com/groups/439605296411167 https://www.facebook.com/groups/289685249114284 https://www.facebook.com/groups/2232030250381502 https://www.facebook.com/groups/newtolaserengraving https://www.facebook.com/groups/lasercuttingengraving https://www.facebook.com/groups/lightburncommunity https://www.facebook.com/groups/3048640425270025 https://www.facebook.com/groups/LaserEngravingAndCutting https://www.facebook.com/groups/1562665357839728 https://www.facebook.com/groups/1182674569310365
 
 A NOTE ABOUT COMMERCIAL LICENSING
 
-### customising designs
+### creating and customising designs
 
 Lightburn has a couple of simple things you can do.
 
@@ -28,6 +24,10 @@ For more complex editing, get Inkscape (free) if you don't already have Illustra
 Alternatively: QCAD, LibreCAD, FreeCAD, Fusion360, AutoCAD. 
 
 A NOTE ABOUT COMMERCIAL LICENSING AND REMIXING
+
+https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a bonus profit calculator
+
+hmmm living hinge generator
 
 ### checklist for design
 
