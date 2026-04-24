@@ -5,11 +5,12 @@ url: "https://paper-engineer.github.io"
 baseurl: "/laser-gallery"
 
 title: Laser Gallery
-description: by Third Eel Productions
+description: Where the laser projects live
 logo: /siteicon.png
 
 author: MOG (the third eel)
 email: 
+company: Third Eel Productions
 
 lang: en
 timezone: NZ
