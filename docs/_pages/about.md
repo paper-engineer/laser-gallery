@@ -1,6 +1,6 @@
 ---
 title: about
-layout: page
+layout: page-center
 ---
 ## About the laser
 
