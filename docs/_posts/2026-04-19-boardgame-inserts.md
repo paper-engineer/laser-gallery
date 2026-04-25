@@ -1,20 +1,21 @@
 ---
 layout: post
-title: Template Post
+title: Wingspan and Wyrmspan
 image: /assets/images/example2.jpg 
 tags:
-  - Animal
-  - Music
-  - Mystic
+  - boardgames
 author: MOG
 ---
 
 take a picture of the thing, upload it, put the image in the top
 
-description here
+Two sets of board game inserts, for a friend. 
 
-Material: 
-Settings: 
+Material: One full sheet of 3mm birch/poplar makes two games' worth of inserts, plus testing and the odd failure. 
+
+Time: the best part of 12 hours over 2 days
+
+(to be fair, there was a bit of dialing in and figuring out. but it still took a while. there were hour-long cuts, the ones with the hinges. and some messing with the layouts in lightburn.)
 
 For pictures use 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
