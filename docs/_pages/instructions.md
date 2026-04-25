@@ -5,22 +5,31 @@ layout: page
 
 ## safety check
 
-first make sure the fire extinguisher is there etc and you know where things are and what the deal is and all the kit is nice and whatever
+first make sure the fire extinguisher is there etc and you know where things are and what the deal is and all the kit is nice and whatever. 
 
-fire safety. assume you see a little flame come out the wood. step 1, hit estop. the one site says use a damp cloth for a little fire. also estop the exhaust fan to starve it of airflow. fire blanket and co2 extinguisher are the big guns - if you're using a fire blanket it's pretty much a writeoff, extinguisher you may be able to rebuild.
+set up your damp cloth. 
+
+fire safety. if you see a little flame come out the wood, hit estop. the one site says use a damp cloth for a little fire. also estop the exhaust fan to starve it of airflow. fire blanket and co2 extinguisher are the big guns - if you're using a fire blanket it's pretty much a writeoff, extinguisher you may be able to rebuild.
 
 training / safety briefing for the assorted people who are interested in coming over and using my laser
 
 ## cut and engrave
 
+note: as it currently stands, the camera exists but isn't entirely 1:1 with the workspace. I just figure good enough is good enough. 
+
 steps to run
-- import file to lightburn or create simple design (or presumably use built-in calibration templates)
+- import file to lightburn or create simple design (or use built-in calibration templates)
 - setup file (cut path, correct thickness, select power/speed/passes, etc) it has lightburn layers!
-- load blank and run through checklist: properly aligned, masked if necessary?, hold downs,
+- load blank and run through checklist: properly aligned, masked if necessary?, hold downs?
 - set focus with tool
-- on lightburn, click camera button. click "frame" confirm location ok
+- on lightburn, click camera button. click "home" on lightburn or laser. click "frame" confirm location ok.
+- close the laser lid. 
 - double check no unattended time planned (use the bathroom before starting!)
 - send job, press start button on laser. or press start on lightburn.
+
+notes: double click a layer for cut settings to add tabs or whatever it is. 
+
+when focusing, if your plywood is slightly bent (these things happen), focus it at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. 
 
 ### end of run checklist
 
