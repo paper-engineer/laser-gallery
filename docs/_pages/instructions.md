@@ -27,7 +27,7 @@ steps to run
 - double check no unattended time planned (use the bathroom before starting!)
 - send job, press start button on laser. or press start on lightburn.
 
-notes: double click a layer for cut settings to add tabs or whatever it is. 
+notes: double click a layer for cut settings to add tabs. this is also where you adjust your kerf offset. 
 
 when focusing, if your plywood is slightly bent (these things happen), focus it at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. 
 
