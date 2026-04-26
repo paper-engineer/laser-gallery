@@ -22,7 +22,7 @@ steps to run
 - setup file (cut path, correct thickness, select power/speed/passes, etc) it has lightburn layers!
 - load blank and run through checklist: properly aligned, masked if necessary?, hold downs?
 - set focus with tool
-- on lightburn, click camera button. click "home" on lightburn or laser. click "frame" confirm location ok.
+- on lightburn, click camera button. click "home" on lightburn or laser. click "frame" confirm location ok. (*the camera isn't currently well calibrated. I use the map and my placement jigs instead.)
 - close the laser lid. 
 - double check no unattended time planned (use the bathroom before starting!)
 - send job, press start button on laser. or press start on lightburn.
@@ -30,6 +30,8 @@ steps to run
 notes: double click a layer for cut settings to add tabs. this is also where you adjust your kerf offset. 
 
 when focusing, if your plywood is slightly bent (these things happen), focus it at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. 
+
+I have one jig for the top left corner. gotta make more for the other corners. 
 
 ### end of run checklist
 
@@ -68,6 +70,8 @@ fire suppression
 lightburn: laser tools > material test. use dropdown to select presets, adjust as necessary. set default settings in "material settings", and all the settings other than the squares you're running will follow those. 
 
 press frame and it'll run the laser head to centre and frame it; then move the laser head manually over to where you want it to actually run. then press start. 
+
+this laser can technically go up to like 12k speed or something. nominally 25k but that's really never going to work. (mm/min)
 
 ---
 
