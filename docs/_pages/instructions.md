@@ -65,7 +65,9 @@ fire suppression
  
 ## dialing in feeds and speeds
 
-run a test piece
+lightburn: laser tools > material test. use dropdown to select presets, adjust as necessary. set default settings in "material settings", and all the settings other than the squares you're running will follow those. 
+
+press frame and it'll run the laser head to centre and frame it; then move the laser head manually over to where you want it to actually run. then press start. 
 
 ---
 
