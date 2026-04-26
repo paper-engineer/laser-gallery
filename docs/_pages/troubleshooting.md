@@ -3,9 +3,23 @@ title: troubleshooting
 layout: page
 ---
 
+## current status / todolist
+
+- belt tensioning
+- clean down the air assist slats
+- make jigs for other corners (cut a rectangle, push it into a corner, cut out the corner, label corner with marker)
+
+and also
+- make the camera behave like dude managed
+
+---
+
+## issues
+
 lightburn tells you yourlaser is busy: check the COM port is at COM4 instead of COM1
 
-remember to home it if you've moved it to get to your piece, otherwise it gets Unhappy
-but if you framed it and decided to move it, you can just shuffle it to the new bottom left corner
+remember to home the laser if you've moved it to get to your piece, otherwise it gets Unhappy. but if you framed it and decided to move it, you can just shuffle it to the new bottom left corner
 
 jiggles where the line should be straight/curves not as they should be: probably a belt tensioning issue. I gotta fix that. 
+
+stopped in the middle and blinking red at you: hit stop on lightburn, open preview window (icon that looks like a tv on toolbar), use slider to go to just about where you were, and select "start from here". 
