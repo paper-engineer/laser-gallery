@@ -13,25 +13,29 @@ fire safety. if you see a little flame come out the wood, hit estop. the one sit
 
 training / safety briefing for the assorted people who are interested in coming over and using my laser
 
+put vent out the window and away (I tend to run it towards the closed bedroom window, then leave the door open - otherwise the smell does drift back in)
+
+fire up the camera and make sure it's all pointed correctly
+
 ## cut and engrave
 
-note: as it currently stands, the camera exists but isn't entirely 1:1 with the workspace. I just figure good enough is good enough. 
+note: as it currently stands, the camera exists but isn't entirely 1:1 with the workspace. I just figure good enough is good enough, use the map and my placement jigs instead. camera to be calibrated later. 
 
 steps to run
 - import file to lightburn or create simple design (or use built-in calibration templates)
 - setup file (cut path, correct thickness, select power/speed/passes, etc) it has lightburn layers!
 - load blank and run through checklist: properly aligned, masked if necessary?, hold downs?
 - set focus with tool
-- on lightburn, click camera button. click "home" on lightburn or laser. click "frame" confirm location ok. (*the camera isn't currently well calibrated. I use the map and my placement jigs instead.)
+- on lightburn, click camera button (optional). click "home" on lightburn or laser. click "frame" confirm location ok. 
 - close the laser lid. 
 - double check no unattended time planned (use the bathroom before starting!)
 - send job, press start button on laser. or press start on lightburn.
 
 notes: double click a layer for cut settings to add tabs. this is also where you adjust your kerf offset. 
 
-when focusing, if your plywood is slightly bent (these things happen), focus it at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. 
+when focusing, if your plywood is slightly bent (these things happen), focus it at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. also make sure it's bent like a rainbow with the centre high, U shape allows edges to catch. 
 
-I have one jig for the top left corner. gotta make more for the other corners. 
+I have one jig for the top left corner. gotta make more for the other corners. that's how you get alignment right now. 
 
 ### end of run checklist
 
