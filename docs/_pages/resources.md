@@ -7,6 +7,10 @@ layout: page
 
 [link to instructions page](https://paper-engineer.github.io/laser-gallery/instructions/)
 
+[materials settings](https://paper-engineer.github.io/laser-gallery/settings/)
+
+[troubleshooting](https://paper-engineer.github.io/laser-gallery/troubleshooting/)
+
 ## safety resources
 
 link to resource about OD
@@ -40,7 +44,7 @@ Alternatively: QCAD, LibreCAD, FreeCAD, Fusion360, AutoCAD.
 
 A NOTE ABOUT COMMERCIAL LICENSING AND REMIXING
 
-https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a bonus profit calculator
+https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a profit calculator
 
 hmmm living hinge generator
 
@@ -65,8 +69,6 @@ other materials options
 - paua sheets from lumea
 - construction paper just for funsies
 - I hear you can do leather, but finding a reputable source, that's hard.
-
-feeds and speeds and that sort of thing, make a table
 
 materials notes
 - he doesn't usually use masking. internet says 4075-RLA paper-based masking.
