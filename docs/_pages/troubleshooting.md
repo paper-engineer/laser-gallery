@@ -5,11 +5,12 @@ layout: page
 
 ## current status / todolist
 
+- vacuum dust out of rails and drive belts
 - belt tensioning
-- clean down the air assist slats
+- clean down the air assist slats and lens
 - make jigs for other corners (cut a rectangle, push it into a corner, cut out the corner, label corner with marker)
 - soak tray, not just slats
-- sort out the requisite damp cloth 
+- sort out the requisite damp cloth
 
 and also
 - make the camera behave like dude managed
