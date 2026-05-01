@@ -34,8 +34,6 @@ critical path to production
 - put all the product options through the laser, then post them up separately on the website, then handoff
 - file system planning
 
----
-
 ## issues
 
 lightburn tells you yourlaser is busy: check the COM port is at COM4 instead of COM1
@@ -51,3 +49,7 @@ stopped in the middle and blinking red at you: hit stop on lightburn, open previ
 In lightburn I recommend turning on advanced settings and using optimisation settings to set the priority layer -> group. apparently this makes it cut piece by piece instead of jumping all over the place? 
 
 extra passes at decreased power helps with fire-detection-in-error issues apparently
+
+## other assistance can be found at
+
+fb groups https://www.facebook.com/groups/1554309237985182 https://www.facebook.com/groups/falconlaserengraver https://www.facebook.com/groups/439605296411167 https://www.facebook.com/groups/289685249114284 https://www.facebook.com/groups/2232030250381502 https://www.facebook.com/groups/newtolaserengraving https://www.facebook.com/groups/lasercuttingengraving https://www.facebook.com/groups/lightburncommunity https://www.facebook.com/groups/3048640425270025 https://www.facebook.com/groups/LaserEngravingAndCutting https://www.facebook.com/groups/1562665357839728 https://www.facebook.com/groups/1182674569310365
