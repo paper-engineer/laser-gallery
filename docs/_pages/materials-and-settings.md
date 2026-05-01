@@ -45,7 +45,9 @@ those little stainless ae tags will need a jig. which I can make. for larger sur
 
 ## feeds and speeds
 
-format: speed/power
+format: speed/power/(passes, 1 if not otherwise stated)
+
+note laser max speed typically 6-10k range. haven't tried out to see when mine falls apart. 
 
 3mm birch ply from plyman tauranga: 2000/20 engraves a decent dark line, 500/100 to cut. we can probably adjust the line one, idk. 
 
