@@ -7,7 +7,7 @@ tags:
 author: MOG
 ---
 
-take a picture of the thing, upload it, put the image in the top
+take a picture of the thing, upload it, put the image in the top. tag is for build category, title is for what you made. 
 
 Two sets of board game inserts, for a friend. The only good thing about Wingspan is that it's not Wyrmspan, in my opinion, but I'm not the one who paid for the files ($35 odd, on etsy) or the raw materials ($59 the sheet, from plyman). In this case I did not charge either laser time or my time - it was a convenient project to get used to running the laser with, any pricing wouldn't be accurate anyway due to still figuring out how things work, quality could be better, etc. And also my friend did the dishes and stuff. 
 
