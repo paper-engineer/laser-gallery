@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Living hinges
+title: Moebius strip and stuff
 image: /assets/images/example1.jpg 
 tags:
-  - parts
+  - trinkets and curiosities
 author: MOG
 ---
 
@@ -13,7 +13,7 @@ Couple of interesting sheets of things. I think it's just so cool.
 
 Material: 3mm pine ply, not much to it
 
-Time: small piece 10min cut time, large piece 30min
+Time: small piece 10min cut time, large piece 30min. moebius strip TBC. 
 
 For pictures use 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
