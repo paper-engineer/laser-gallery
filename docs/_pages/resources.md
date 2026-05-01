@@ -3,6 +3,14 @@ title: resources
 layout: page
 ---
 
+## instructions for using laser
+
+[link to instructions page](https://paper-engineer.github.io/laser-gallery/instructions/)
+
+[materials and settings](https://paper-engineer.github.io/laser-gallery/materials-and-settings/)
+
+[troubleshooting](https://paper-engineer.github.io/laser-gallery/troubleshooting/)
+
 ## safety resources
 
 link to resource about OD
@@ -15,14 +23,6 @@ the wavelength is the same regardless of power.
 2- place the glasses between the laser and paper
 3- looking at the paper: you should see that very little or none focused light gets to the paper.
 this way you know that the glasses absorbed the light. (or reflected it - so try varying the angle.)
-
-## instructions for using laser
-
-[link to instructions page](https://paper-engineer.github.io/laser-gallery/instructions/)
-
-[materials and settings](https://paper-engineer.github.io/laser-gallery/materials-and-settings/)
-
-[troubleshooting](https://paper-engineer.github.io/laser-gallery/troubleshooting/)
 
 ## where to find designs
 
