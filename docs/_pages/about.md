@@ -2,6 +2,7 @@
 title: about
 layout: page-center
 ---
+
 ## About the laser
 
 falcon 2 pro 40w, workspace 400x415, but it can fit 460x460 just extends out past cutting area. max is uh I found this somewhere. just for info only.
@@ -15,7 +16,7 @@ that lets me run bigger items with one end sticking out, but I'd have to cut to 
 
 This is just a thing I do for fun. 
 
-## things I can make
+## Things I can make
 
 things I want to make and/or they will probably sell
 - the monster box, just because it's fun
@@ -31,3 +32,8 @@ things I want to make and/or they will probably sell
 obviously there are stainless tags and tumblers and whatnot. jewellery, clocks, artwork and mandalas and things. the usual. 
 
 things I have actually made get posted, this is a list of potentials. 
+
+## Custom requests
+
+Priced by my time and laser time. You supply the files. Materials could go either way, but if you're supplying, expect to lose a little bit for speed/power testing. NO VINYL OR PVC. 
+
