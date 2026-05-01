@@ -14,6 +14,10 @@ before next laser day
 
 next laser day
 - run speed/power/passes testing
+  - test a grid around 1000/80/2 in 3mm pine, then 1500/75/3. (baseline 650/100/1, but there are faster ones that got almost through, so 1000 is probably not the max)
+  - 6mm say a baseline might be 200/100/1, but 400-600/100/2 just gets charred and goes nowhere. start with the clean cut result from 3mm, 1.5x the passes and 0.7x the speed. grid it out from there.
+  - figure out the fastest allowable single pass engraving without sacrificing quality.
+  - there are links online to other test files. 
 - do mog's thing
 - make proper corner jigs. 25 long and 20 wide seems to be the go?
 - cut a moebius strip
