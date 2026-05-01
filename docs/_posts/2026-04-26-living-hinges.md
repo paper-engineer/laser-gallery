@@ -7,7 +7,7 @@ tags:
 author: MOG
 ---
 
-take a picture of the thing, upload it, put the image in the top
+take a picture of the thing, upload it, put the image in the top. tag is for build category, title is for what you made. 
 
 Couple of interesting sheets of things. I think it's just so cool. 
 
