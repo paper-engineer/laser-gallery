@@ -24,7 +24,7 @@ the wavelength is the same regardless of power.
 3- looking at the paper: you should see that very little or none focused light gets to the paper.
 this way you know that the glasses absorbed the light. (or reflected it - so try varying the angle.)
 
-## where to find designs
+## design stuff
 
 [list of online file libraries](https://paper-engineer.github.io/laser-gallery/file-libraries/)
 
