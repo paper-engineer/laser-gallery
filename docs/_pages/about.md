@@ -29,7 +29,7 @@ things I want to make and/or they will probably sell
 - dice towers and deck holders or whatever
 - puzzles and boardgames like those fb listings
 
-obviously there are stainless tags and tumblers and whatnot. jewellery, clocks, artwork and mandalas and things. the usual. 
+obviously there are stainless tags and tumblers and whatnot. jewellery, clocks, artwork and mandalas and things. the usual. card wallets. 
 
 things I have actually made get posted, this is a list of potentials. 
 
