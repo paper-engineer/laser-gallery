@@ -26,47 +26,9 @@ this way you know that the glasses absorbed the light. (or reflected it - so try
 
 ## where to find designs
 
-table this. note license terms are a broad approximation. also some of these are just vector art sites. 
+[list of online file libraries](https://paper-engineer.github.io/laser-gallery/file-libraries/)
 
-Search: https://best-lasercutter.com/en/free-laser-templates
-
-https://designbundles.net/free-design-resources/free-laser-cutting-files
-Commercial licensing for physical products. Redistribution of files not allowed, remixing to upload allowed, POD may be allowed. More designs locked behind paid membership, with a free trial for 7 days or 30 products (whichever you hit first). 
-
-https://3axis.co/free-svg-files/
-Commercial licensing for physical products. Redistribution of files not allowed, remixing to upload NOT allowed, POD not allowed. 
-
-https://www.vecteezy.com/free-svg/laser-cut
-Complex licensing that pretty much boils down to non-commercial and requires attributing. 
-
-https://www.atomm.com/laser-projects
-License depends on file - it's an aggregator site
-
-https://www.magnific.com/vectors/laser-engraver-files-svg
-Complex licensing that pretty much boils down to non-commercial. Includes AI-generated files. 
-
-https://www.ponoko.com/free-laser-cutting-files-templates
-No license stated. Context indicates open source - they're a POD business, the free files are a side effect. 
-
-https://vecty.co/
-License depends on file - it's an aggregator site
-
-https://freesvg.org/
-Public domain. 
-
-https://www.freevector.us/free-svg-files/
-No license stated. Use at own risk. 
-
-https://omtech.com/collections/diy-craft-kits and https://ideas.omtech.com/
-License per file. 
-
-obrary, idk. I googled "download svg for laser" and got a bunch of free files, some of which can be used commercially. Got to page 5 of google results before they started repeating. https://www.xtool.com/blogs/buyer-guide/free-laser-cut-files https://twotrees3d.com/blogs/twotrees-blog/the-best-free-websites-for-laser-cut-files-svgs-dxfs https://www.reddit.com/r/lasercutting/comments/17lz36w/where_to_find_free_svg_images/ https://www.longer3d.com/blogs/academy/the-7-best-sites-for-free-laser-cut-files-svg-dxf-in-2025 https://www.crealityfalcon.com/blogs/laser-academy/laser-cut-ornaments-svg
-
-paid sources: https://www.creativefabrica.com/ and others. also, etsy. 
-
-fb groups https://www.facebook.com/groups/1554309237985182 https://www.facebook.com/groups/falconlaserengraver https://www.facebook.com/groups/439605296411167 https://www.facebook.com/groups/289685249114284 https://www.facebook.com/groups/2232030250381502 https://www.facebook.com/groups/newtolaserengraving https://www.facebook.com/groups/lasercuttingengraving https://www.facebook.com/groups/lightburncommunity https://www.facebook.com/groups/3048640425270025 https://www.facebook.com/groups/LaserEngravingAndCutting https://www.facebook.com/groups/1562665357839728 https://www.facebook.com/groups/1182674569310365
-
-A NOTE ABOUT COMMERCIAL LICENSING
+Cross-library search: https://best-lasercutter.com/en/free-laser-templates
 
 ### creating and customising designs
 
@@ -84,13 +46,13 @@ https://dupercut.com/pages/nametags this and the pet paw one are free, rest are 
 
 hmmm living hinge generator where was that again
 
-### checklist for design
+### general checklist for design
 
 vector (format pls)
 pathing
 nesting
 
-#### living hinges
+### living hinges
 
 info goes here - I think cut full swatches, then do destructive testing or something. post photos with commentary on when to use what design and parameters. 
 
