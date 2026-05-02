@@ -44,6 +44,8 @@ if your plywood is slightly bent (these things happen), make sure it's placed li
 
 I have one jig for the top left corner. gotta make more for the other corners. that's how you get alignment right now. 
 
+you can wipe down the piece with your damp cloth to get rid of (some of) the burn marks. 
+
 ## end of run checklist
 
 - clear tray (incl brush down) to prevent chips from catching fire (also do this in the middle if you need to)
@@ -102,7 +104,9 @@ press frame and it'll run the laser head to centre and frame it; then move the l
 
 this laser can technically go up to like 12k speed or something. nominally 25k but that's really never going to work. (mm/min)
 
-remember to do a kerf test on each new material as well
+remember to do a kerf test for each assorted cut setting you have, because different speed/power combinations sometimes turn up different kerfs. 
+
+there are other calibration files available. 
 
 ---
 
