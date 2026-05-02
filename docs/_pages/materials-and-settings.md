@@ -3,6 +3,8 @@ title: materials and settings
 layout: page
 ---
 
+https://www.reddit.com/r/Creality/comments/1aqug0w/falcon_2_22w_and_40w_material_guides/
+
 ## materials
 
 wood, etc. plywood and mdf up to what thickness. laser ply. regular wood planks. 
