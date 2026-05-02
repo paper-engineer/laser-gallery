@@ -80,6 +80,10 @@ info goes here - I think cut full swatches, then do destructive testing or somet
 
 rounded slot ends is good for hinges, see how we go
 
+## other useful links
+
+https://www.printables.com/model/620898-creality-falcon-2-focus-tool
+
 ## people and places to leave sample kit around
 
 - just friendly: downstairs with mandy, say hi to all my neighbours with house numbers on acrylic (ehhhh expensive though) or I guess we can spray finish it, give b a notebook thingy, drop a mandala on v
