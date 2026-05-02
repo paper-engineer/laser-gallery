@@ -21,13 +21,14 @@ next laser day
 - do mog's thing
 - make proper corner jigs. 25 long and 20 wide seems to be the go?
 - cut a moebius strip
-- experiment with other materials, including a rock or two
+- experiment with other materials, including a rock or two, and cardboard
 - run an experimental art or two
 - run the full stack of living hinge test cards
 
 eventually
 - make the camera behave like dude managed to
 - make gallery pictures linkable to their related post
+- I could do with a jig that fits around the laser head and points at exactly the laser dot location. 
 
 critical path to production
 - use FH and lighthouse for promo art - get websites up and whatever, and I'll need svg files for those, and I'll still eventually have to make a logo for the laser side too
@@ -36,11 +37,11 @@ critical path to production
 
 ## issues
 
+it's not turning on: check e-stop, power switch on right, and key turned. also check plugged in, etc. 
+
 lightburn tells you yourlaser is busy: check the COM port is at COM4 instead of COM1
 
-remember to home the laser if you've moved it to get to your piece, otherwise it gets Unhappy. but if you framed it and decided to move it, you can just shuffle it to the new bottom left corner
-
-jiggles where the line should be straight/curves not as they should be: probably a belt tensioning issue. I gotta fix that. 
+jiggles where the line should be straight/curves not as they should be: probably a belt tensioning issue. 
 
 stopped in the middle and blinking red at you: hit stop on lightburn, open preview window (icon that looks like a tv on toolbar), use slider to go to just about where you were, and select "start from here". 
 
