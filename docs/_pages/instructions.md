@@ -3,37 +3,42 @@ title: instructions
 layout: page
 ---
 
-## safety check
+YOU MAY NOT USE THE LASER UNLESS YOU HAVE HAD A SAFETY BRIEFING. even if you've read it, I will go over it with you. if you want to use the laser unsupervised, YOU are giving ME the safety briefing from memory first. 
+
+## safety check and setup
 
 first make sure the fire extinguisher is there etc and you know where things are and what the deal is and all the kit is nice and whatever. 
 
+make sure the chipboard screen is in place. 
+
 set up your damp cloth. 
 
-fire safety. if you see a little flame come out the wood, hit estop. the one site says use a damp cloth for a little fire. also estop the exhaust fan to starve it of airflow. fire blanket and co2 extinguisher are the big guns - if you're using a fire blanket it's pretty much a writeoff, extinguisher you may be able to rebuild.
+put vent out the window and away (I tend to point it towards the closed bedroom window, then leave the door open - otherwise the smell does drift back in). 
 
-training / safety briefing for the assorted people who are interested in coming over and using my laser
+fire up the webcam and make sure it's all pointed correctly and visible on PC screen. 
 
-put vent out the window and away (I tend to run it towards the closed bedroom window, then leave the door open - otherwise the smell does drift back in)
-
-fire up the camera and make sure it's all pointed correctly
+ensure all the laser kit is plugged up and connected in: air assist pump especially, make sure air assist is turned up to max. make sure vent fan is running! that's a separate fan, doesn't go with the laser. 
 
 ## cut and engrave
 
-note: as it currently stands, the camera exists but isn't entirely 1:1 with the workspace. I just figure good enough is good enough, use the map and my placement jigs instead. camera to be calibrated later. 
+note: as it currently stands, the laser built-in camera exists but isn't entirely 1:1 with the workspace. I just figure good enough is good enough, use the map and my placement jigs instead. camera to be calibrated later. 
+
+!! remember to home the laser before using if you've moved it manually, otherwise it gets Unhappy, it doesn't know where it is automatically. but if you framed it and decided to move it, you can just shuffle it to the new bottom left corner and it'll start there instead. 
 
 steps to run
 - import file to lightburn or create simple design (or use built-in calibration templates)
-- setup file (cut path, correct thickness, select power/speed/passes, etc) it has lightburn layers!
+- setup file (cut path, correct thickness, select power/speed/passes, etc) 
 - load blank and run through checklist: properly aligned, masked if necessary?, hold downs?
 - set focus with tool
-- on lightburn, click camera button (optional). click "home" on lightburn or laser. click "frame" confirm location ok. 
+- (after camera calibrated) on lightburn, click camera button to see workpiece. move file so it aligns with the workpiece where you want to cut/engrave it. 
+- click "home" on lightburn or laser. click "frame" confirm location ok. 
 - close the laser lid. 
 - double check no unattended time planned (use the bathroom before starting!)
 - send job, press start button on laser. or press start on lightburn.
 
 notes: double click a layer for cut settings to add tabs. this is also where you adjust your kerf offset. 
 
-when focusing, if your plywood is slightly bent (these things happen), focus it at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. also make sure it's bent like a rainbow with the centre high, U shape allows edges to catch. 
+if your plywood is slightly bent (these things happen), make sure it's placed like a rainbow with the centre high. putting it as a U shape allows edges to catch. focus at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. 
 
 I have one jig for the top left corner. gotta make more for the other corners. that's how you get alignment right now. 
 
@@ -48,6 +53,24 @@ I have one jig for the top left corner. gotta make more for the other corners. t
 - Clean air assist every month (check it every week for dust) this schd is relative to FT use. The slats in the laser unit are the impt part, not the fan. Also unscrew nozzle to reach lens cover, take the little glass lens out and clean with lens cleaner. Check that every month, but it’ll throw an error if it’s blocked
 
 Relevant tool: Kimtech delicate task wipers - lint free cloth
+
+---
+
+## safety briefing
+
+you must always vent the laser before you use it
+
+fire safety. if you see a little flame come out the wood, hit estop. the one site says use a damp cloth for a little fire. also estop the exhaust fan to starve it of airflow. fire blanket and co2 extinguisher are the big guns - if you're using a fire blanket it's pretty much a writeoff, extinguisher you may be able to rebuild. HERE is the estop. 
+
+visuals - do not look directly during normal operation! the red glass is good enough to fade out bright diffuse light in normal operation, it is not good enough to protect you from coherent light if something else goes wrong. like for example, reflected off a slat at the exact wrong angle. that makes it a barely adequate safeguard for "just going to the toilet" accidental glance-bys, and absolutely not adequate for watching the laser work. (well, technically this is not so much a DO NOT as it is a FAIR WARNING, like, if you want to risk going blind if something goes wrong in laser land, you do you.) 
+
+I have two pairs of OD rated safety glasses. If you want to watch, you watch through one of those. 
+
+---
+
+## tips and tricks
+
+something something cardboard jigs
 
 ---
 
