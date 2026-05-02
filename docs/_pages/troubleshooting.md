@@ -28,7 +28,9 @@ next laser day
 eventually
 - make the camera behave like dude managed to
 - make gallery pictures linkable to their related post
-- I could do with a jig that fits around the laser head and points at exactly the laser dot location. 
+- I could do with a jig that fits around the laser head and points at exactly the laser dot location.
+- put the little hand-shaped wire holders around my table to keep wiring in place
+- set up shelf and boxes for materials
 
 critical path to production
 - use FH and lighthouse for promo art - get websites up and whatever, and I'll need svg files for those, and I'll still eventually have to make a logo for the laser side too
