@@ -37,6 +37,14 @@ critical path to production
 - put all the product options through the laser, then post them up separately on the website, then handoff
 - file system planning
 
+people and places to leave sample kit around
+- just friendly: downstairs with mandy, say hi to all my neighbours with house numbers on acrylic (ehhhh expensive though) or I guess we can spray finish it, give b a notebook thingy, drop a mandala on v
+- at the board game shop (and other game shops)
+- leave a selection of options with niki
+- at dance
+- on the desk at 3bros lol
+- commissioning personnel nameplates
+
 ## issues
 
 it's not turning on: check e-stop, power switch on right, and key turned. also check plugged in, etc. 
