@@ -7,8 +7,6 @@ A NOTE ABOUT COMMERCIAL LICENSING
 
 table these. note license terms are a broad approximation. also some of these are just vector art sites. 
 
-obrary, idk. I googled "download svg for laser" and got a bunch of free files, some of which can be used commercially. Got to page 5 of google results before they started repeating. https://www.xtool.com/blogs/buyer-guide/free-laser-cut-files https://twotrees3d.com/blogs/twotrees-blog/the-best-free-websites-for-laser-cut-files-svgs-dxfs https://www.reddit.com/r/lasercutting/comments/17lz36w/where_to_find_free_svg_images/ https://www.longer3d.com/blogs/academy/the-7-best-sites-for-free-laser-cut-files-svg-dxf-in-2025 https://www.crealityfalcon.com/blogs/laser-academy/laser-cut-ornaments-svg
-
 ## Entire laser files for cutting
 
 https://designbundles.net/free-design-resources/free-laser-cutting-files
@@ -17,17 +15,34 @@ Commercial licensing for physical products. Redistribution of files not allowed,
 https://3axis.co/free-svg-files/
 Commercial licensing for physical products. Redistribution of files not allowed, remixing to upload NOT allowed, POD not allowed. 
 
-https://www.atomm.com/laser-projects
-License depends on file - it's an aggregator site
+### aggregator sites
 
 https://www.ponoko.com/free-laser-cutting-files-templates
-No license stated. Context indicates open source - they're a POD business, the free files are a side effect. 
+No license stated, might be per file, idk, requires free login, I didn't bother. 
+
+https://www.atomm.com/laser-projects
+License per file. 
 
 https://vecty.co/
-License depends on file - it's an aggregator site
+License per file. 
 
 https://omtech.com/collections/diy-craft-kits and https://ideas.omtech.com/
 License per file. 
+
+https://obrary.com/collections/designs-for-the-laser
+License per file. 
+
+https://cults3d.com/en/laser-cutting-cnc-machining
+License per file. 
+
+### not precisely laser aggregator sites, but has laser files
+
+https://www.thingiverse.com/
+
+https://makerworld.com/en
+
+https://grabcad.com/library
+non-commercial only
 
 ## Just vector designs
 
