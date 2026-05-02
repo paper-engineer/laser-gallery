@@ -44,9 +44,9 @@ if your plywood is slightly bent (these things happen), make sure it's placed li
 
 I have one jig for the top left corner. gotta make more for the other corners. that's how you get alignment right now. 
 
-### end of run checklist
+## end of run checklist
 
-- clear tray (incl brush down) to prevent chips from catching fire
+- clear tray (incl brush down) to prevent chips from catching fire (also do this in the middle if you need to)
 - vacuum dust out of rails and drive belts (very important!)
 
 ## periodic maintenance 
