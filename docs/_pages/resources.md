@@ -84,6 +84,8 @@ rounded slot ends is good for hinges, see how we go
 
 https://www.printables.com/model/620898-creality-falcon-2-focus-tool
 
+open source photo editing software, there was a couple standouts. for product photos. idk. 
+
 ## people and places to leave sample kit around
 
 - just friendly: downstairs with mandy, say hi to all my neighbours with house numbers on acrylic (ehhhh expensive though) or I guess we can spray finish it, give b a notebook thingy, drop a mandala on v
