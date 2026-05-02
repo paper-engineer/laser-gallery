@@ -3,8 +3,6 @@ title: materials and settings
 layout: page
 ---
 
-https://www.reddit.com/r/Creality/comments/1aqug0w/falcon_2_22w_and_40w_material_guides/
-
 ## materials
 
 wood, etc. plywood and mdf up to what thickness. laser ply. regular wood planks. 
@@ -59,6 +57,6 @@ note laser max speed typically 6-10k range. haven't tried out to see when mine f
 
 take and upload pictures of test grids
 
-(post creality's table here)
+https://www.reddit.com/r/Creality/comments/1aqug0w/falcon_2_22w_and_40w_material_guides/
 
 the pencil marks on my table say: cut 6mm basswood with 450/0.175 (I really don't know what this means). 3mm mahogany 600/100, 3mm mdf 800/100 - 500/80, s/s engrave 3000/50. 
