@@ -52,6 +52,8 @@ Cross-library search: https://best-lasercutter.com/en/free-laser-templates
 
 Seriously though. I googled "download svg for laser" and got a bunch of free files, some of which can be used commercially. Got to page 5 of google results before they started repeating. 
 
+A NOTE ABOUT COMMERCIAL LICENSING
+
 ### creating and customising designs
 
 Lightburn has a couple of simple things you can do. 
@@ -61,6 +63,8 @@ For more complex editing, get Inkscape (free) if you don't already have Illustra
 Alternatively: QCAD, LibreCAD, FreeCAD, Fusion360, AutoCAD. 
 
 A NOTE ABOUT COMMERCIAL LICENSING AND REMIXING
+
+### online tools
 
 https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a profit calculator
 
@@ -85,12 +89,3 @@ rounded slot ends is good for hinges, see how we go
 https://www.printables.com/model/620898-creality-falcon-2-focus-tool
 
 open source photo editing software, there was a couple standouts. for product photos. idk. 
-
-## people and places to leave sample kit around
-
-- just friendly: downstairs with mandy, say hi to all my neighbours with house numbers on acrylic (ehhhh expensive though) or I guess we can spray finish it, give b a notebook thingy, drop a mandala on v
-- at the board game shop (and other game shops)
-- leave a selection of options with niki
-- at dance
-- on the desk at 3bros lol
-- commissioning personnel nameplates
