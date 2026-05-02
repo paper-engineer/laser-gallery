@@ -27,8 +27,8 @@ note: as it currently stands, the laser built-in camera exists but isn't entirel
 
 steps to run
 - import file to lightburn or create simple design (or use built-in calibration templates)
-- setup file (cut path, correct thickness, select power/speed/passes, etc) 
-- load blank and run through checklist: properly aligned, masked if necessary?, hold downs?
+- setup file for cutting (select power/speed/passes, tabs, kerf offset) 
+- load blank of correct material and run through checklist: properly aligned, masked if necessary?, hold downs?
 - set focus with tool
 - (after camera calibrated) on lightburn, click camera button to see workpiece. move file so it aligns with the workpiece where you want to cut/engrave it. 
 - click "home" on lightburn or laser. click "frame" confirm location ok. 
@@ -38,7 +38,9 @@ steps to run
 
 notes: double click a layer for cut settings to add tabs. this is also where you adjust your kerf offset. 
 
-if your plywood is slightly bent (these things happen), make sure it's placed like a rainbow with the centre high. putting it as a U shape allows edges to catch. focus at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. 
+both file and settings have to be correct to material. settings is obvious, but also, you can't cut a file designed for 3mm ply in 6mm and expect all the tabs to connect properly. 
+
+if your plywood is slightly bent (these things happen), make sure it's placed like a rainbow with the centre high. putting it as a U shape allows edges to catch. focus at the top of the bend, otherwise the laser might move the wood and then your cut will be sad. there is most likely enough leeway to let it cut through even at the bottom. too much bend and you will have a problem with your thing fitting together, the engraving won't be perfectly aligned, etc. but it'll probably be fine. 
 
 I have one jig for the top left corner. gotta make more for the other corners. that's how you get alignment right now. 
 
@@ -99,6 +101,8 @@ lightburn: laser tools > material test. use dropdown to select presets, adjust a
 press frame and it'll run the laser head to centre and frame it; then move the laser head manually over to where you want it to actually run. then press start. 
 
 this laser can technically go up to like 12k speed or something. nominally 25k but that's really never going to work. (mm/min)
+
+remember to do a kerf test on each new material as well
 
 ---
 
