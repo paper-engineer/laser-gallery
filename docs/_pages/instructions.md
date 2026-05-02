@@ -27,7 +27,9 @@ note: as it currently stands, the laser built-in camera exists but isn't entirel
 
 steps to run
 - import file to lightburn or create simple design (or use built-in calibration templates)
-- setup file for cutting (select power/speed/passes, tabs, kerf offset) 
+- ensure file is suitable for laser operations (vector pathing, etc)
+- setup file for cutting (select power/speed/passes, tabs, kerf offset)
+- (if necessary) arrange pieces of file nicely in workspace to make efficient use of material
 - load blank of correct material and run through checklist: properly aligned, masked if necessary?, hold downs?
 - set focus with tool
 - (after camera calibrated) on lightburn, click camera button to see workpiece. move file so it aligns with the workpiece where you want to cut/engrave it. 
@@ -56,25 +58,31 @@ you can wipe down the piece with your damp cloth to get rid of (some of) the bur
 - Clean slats with warm soapy water 1h soak and plastic scour pad, the plywood glue gets on them.
 - Clean air assist every month (check it every week for dust) this schd is relative to FT use. The slats in the laser unit are the impt part, not the fan. Also unscrew nozzle to reach lens cover, take the little glass lens out and clean with lens cleaner. Check that every month, but it’ll throw an error if it’s blocked
 
+## tips and tricks
+
+something something cardboard jigs
+
+restart from preview
+
 Relevant tool: Kimtech delicate task wipers - lint free cloth
 
 ---
 
 ## safety briefing
 
-you must always vent the laser before you use it
+fire safety. if you see a little flame come out the wood, hit estop. you can use a damp cloth for a little fire. also estop the exhaust fan to starve it of airflow?? (in this case that means turn it off at the power board, but in practice I am not sure this applies to this laser). fire blanket and co2 extinguisher are the big guns - if you're using a fire blanket it's pretty much a writeoff, extinguisher you may be able to rebuild. HERE is the estop. 
 
-fire safety. if you see a little flame come out the wood, hit estop. the one site says use a damp cloth for a little fire. also estop the exhaust fan to starve it of airflow. fire blanket and co2 extinguisher are the big guns - if you're using a fire blanket it's pretty much a writeoff, extinguisher you may be able to rebuild. HERE is the estop. 
-
-visuals - do not look directly during normal operation! the red glass is good enough to fade out bright diffuse light in normal operation, it is not good enough to protect you from coherent light if something else goes wrong. like for example, reflected off a slat at the exact wrong angle. that makes it a barely adequate safeguard for "just going to the toilet" accidental glance-bys, and absolutely not adequate for watching the laser work. (well, technically this is not so much a DO NOT as it is a FAIR WARNING, like, if you want to risk going blind if something goes wrong in laser land, you do you.) 
+visuals - do not look directly during normal operation! the red glass is good enough to reduce the intensity of bright diffuse light in normal operation, it is not good enough to protect you from coherent light if something else goes wrong. like for example, reflected off a slat at the exact wrong angle, or laser head got caught on something and turned to face you. that makes it a barely adequate safeguard for "just going to the toilet" accidental glance-bys, and absolutely not adequate for watching the laser work. (well, technically this is not so much a DO NOT as it is a FAIR WARNING, like, if you want to risk going blind if something goes wrong in laser land, you do you.) 
 
 I have two pairs of OD rated safety glasses. If you want to watch, you watch through one of those. 
 
----
+you must always vent the laser before you use it!!! VOCs and suchlike. my vent fan is separate and doesn't run from the laser. it gets turned on before you turn on the laser and you don't turn it off until you're done with the laser. 
 
-## tips and tricks
+air assist is very important otherwise shit catches on fire. (elaborate on air assist)
 
-something something cardboard jigs
+DO NOT LEAVE RUNNING UNATTENDED, hit pause if you have to use the bathroom during a cut. (it's not unattended if the other person in the room agrees to keep an eye on it, but it takes only a few minutes for a fire to get out of control.) 
+
+when you leave, shut everything down, including turning off the laser with the switch and the key. leave the key where it is. 
 
 ---
 
@@ -84,18 +92,18 @@ table correctly sized
 
 vented
 
+have all the safety kit
+
 safe viewing set up
-
-connect, camera calibration
-
-have all the kit
 
 checklist for setup
 stable base
 ventilation
 safety gear?
 fire suppression
- 
+
+after that you can connect the laser and do a camera calibration (will require to run the laser)
+
 ## dialing in feeds and speeds
 
 lightburn: laser tools > material test. use dropdown to select presets, adjust as necessary. set default settings in "material settings", and all the settings other than the squares you're running will follow those. 
@@ -120,5 +128,5 @@ there are other calibration files available.
 
 well, it is what it is. I sort of assume finishes are mostly optional.
 
-however, living hinges don't like finishes - at most very light oil only
+note: living hinges don't like finishes - at most very light oil only
 
