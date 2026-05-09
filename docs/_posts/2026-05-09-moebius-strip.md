@@ -15,5 +15,7 @@ Time: 12 min
 
 focus set at 6mm+standard
 
+cut at, I think it was 650/100 again
+
 For pictures use 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
