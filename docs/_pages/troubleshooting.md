@@ -5,7 +5,9 @@ layout: page
 
 ## current status / todolist
 
-the focus seems weird I need to cut a step tool and something something something
+also, it feels a lot like the tool is wrong, given the first couple of tries. so I guess I have to experiment with actual focus now. bah. cut...a staircase shape? will probably be fine, yeah. 
+
+then run a few rounds of focus testing somehow
 
 before next laser day
 - vacuum dust out of rails and drive belts
@@ -46,6 +48,23 @@ people and places to leave sample kit around
 - at dance
 - on the desk at 3bros lol
 - commissioning personnel nameplates
+
+shelf planning:
+slice off 500 from each of 2 pieces, these are the sides
+one of the remaining sections becomes the back
+all my pieces are 800 wide and 15 thick, so the back is clipped between the sides, and shelves are then 300w and 485d
+
+also slice off x2 660x315~ pcs to make my box easier to reach, from the 3rd large piece
+cut those old pcs which are 300w into shelves
+I will need 3 shelves, bottom (floor) middle top. I have those two old pcs and one big scrap bit which is already 300w and ~520 long. perfect. 
+
+I believe the screen should be ~500h and ~550w, so it comes right off the remainder of the 2x660 cut. 
+I think what I might end up doing is move the table a bit left, put the pc under...oh, can't do that, the pc needs to be close by. 
+fine. a 56w scrap to wedge against the table leg, a ledge at the right height to let it sit on the table, and a cable tie to the table leg for tension. 
+although actually one of my 40x40 blanks is just about good enough. has potential. 
+or I could literally just screw two scrap bits to the sides and make it stand up right by the laser
+well, there are options and a right sized piece, so we can figure it out on the day
+
 
 ## issues
 
