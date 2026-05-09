@@ -64,6 +64,9 @@ Alternatively: QCAD, LibreCAD, FreeCAD, Fusion360, AutoCAD.
 
 A NOTE ABOUT COMMERCIAL LICENSING AND REMIXING
 
+each inkscape layer becomes a lightburn layer and then lightburn will treat it as a single object (possibly grouped?)
+it will import all layers, so save a different copy if you want to keep your working docs separate
+
 ### online tools
 
 https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a profit calculator
