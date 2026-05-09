@@ -63,6 +63,8 @@ In lightburn I recommend turning on advanced settings and using optimisation set
 
 extra passes at decreased power helps with fire-detection-in-error issues apparently
 
+have you done the maintenance checklist recently
+
 ## other assistance can be found at
 
 fb groups https://www.facebook.com/groups/1554309237985182 https://www.facebook.com/groups/falconlaserengraver https://www.facebook.com/groups/439605296411167 https://www.facebook.com/groups/289685249114284 https://www.facebook.com/groups/2232030250381502 https://www.facebook.com/groups/newtolaserengraving https://www.facebook.com/groups/lasercuttingengraving https://www.facebook.com/groups/lightburncommunity https://www.facebook.com/groups/3048640425270025 https://www.facebook.com/groups/LaserEngravingAndCutting https://www.facebook.com/groups/1562665357839728 https://www.facebook.com/groups/1182674569310365
