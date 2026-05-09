@@ -19,6 +19,8 @@ fire up the webcam and make sure it's all pointed correctly and visible on PC sc
 
 ensure all the laser kit is plugged up and connected in: air assist pump especially, make sure air assist is turned up to max. make sure vent fan is running! that's a separate fan, doesn't go with the laser. 
 
+check the machine is clean and tray has been cleared
+
 ## cut and engrave
 
 note: as it currently stands, the laser built-in camera exists but isn't entirely 1:1 with the workspace. I just figure good enough is good enough, use the map and my placement jigs instead. camera to be calibrated later. 
