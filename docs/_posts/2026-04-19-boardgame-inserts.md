@@ -3,7 +3,7 @@ layout: post
 title: Board game inserts
 image: /assets/images/example2.jpg 
 tags:
-  - custom requests
+  - custom-requests
 author: MOG
 ---
 
