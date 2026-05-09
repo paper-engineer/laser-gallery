@@ -5,6 +5,8 @@ layout: page
 
 ## current status / todolist
 
+the focus seems weird I need to cut a step tool and something something something
+
 before next laser day
 - vacuum dust out of rails and drive belts
 - belt tensioning
