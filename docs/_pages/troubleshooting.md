@@ -5,7 +5,7 @@ layout: page
 
 ## current status / todolist
 
-also, it feels a lot like the tool is wrong, given the first couple of tries. so I guess I have to experiment with actual focus now. bah. cut...a staircase shape? will probably be fine, yeah. 
+also, it feels a lot like the tool is setting wrong focus, given the first couple of tries engraved text very little. so I guess I have to experiment with actual focus now. bah. cut...a staircase shape? will probably be fine, yeah. 
 
 then run a few rounds of focus testing somehow
 
