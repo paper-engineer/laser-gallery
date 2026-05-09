@@ -3,6 +3,22 @@ title: materials and settings
 layout: page
 ---
 
+## feeds and speeds
+
+format: speed/power/(passes, 1 if not otherwise stated)
+
+note laser max speed typically 6-10k range. haven't tried out to see when mine falls apart. 
+
+3mm birch ply from plyman tauranga: 2000/20 engraves a decent dark line, 500/100 to cut. we can probably adjust the line one, idk. 
+
+3mm pine from 3 brothers hamilton: 650/100 to cut. defocused engraving 12k/30 at 1.7mm. 
+
+6mm mystery plywood: catches fire at speeds below 200/100. makes a very good attempt at it up to 250/100, or with two passes at 400-600/100. it is possible that this one will require a more delicate touch. 
+
+take and upload pictures of test grids
+
+a note about defocus for engraving
+
 ## materials
 
 wood, etc. plywood and mdf up to what thickness. laser ply. regular wood planks. 
@@ -42,20 +58,6 @@ those little stainless ae tags will need a jig. which I can make. for larger sur
 ### cost of material
 
 3mm pine is $40/sheet and you can get 18 squares out of a sheet, plus cut effort, so $2.50/sq. $60/sheet makes for $4/sq roughly. 
-
-## feeds and speeds
-
-format: speed/power/(passes, 1 if not otherwise stated)
-
-note laser max speed typically 6-10k range. haven't tried out to see when mine falls apart. 
-
-3mm birch ply from plyman tauranga: 2000/20 engraves a decent dark line, 500/100 to cut. we can probably adjust the line one, idk. 
-
-3mm pine from 3 brothers hamilton: 650/100 to cut. haven't tried lines. 
-
-6mm mystery plywood: catches fire at speeds below 200/100. makes a very good attempt at it up to 250/100, or with two passes at 400-600/100. it is possible that this one will require a more delicate touch. 
-
-take and upload pictures of test grids
 
 https://www.reddit.com/r/Creality/comments/1aqug0w/falcon_2_22w_and_40w_material_guides/
 
