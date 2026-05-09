@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moebius strip and stuff
+title: Bidirectional living hinge
 image: /assets/images/example1.jpg 
 tags:
   - trinkets and curiosities
