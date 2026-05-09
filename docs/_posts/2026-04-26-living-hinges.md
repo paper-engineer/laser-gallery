@@ -3,7 +3,7 @@ layout: post
 title: Bidirectional living hinge
 image: /assets/images/example1.jpg 
 tags:
-  - trinkets and curiosities
+  - trinkets-and-curiosities
 author: MOG
 ---
 
