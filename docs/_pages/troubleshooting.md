@@ -10,8 +10,6 @@ also, it feels a lot like the tool is setting wrong focus, given the first coupl
 then run a few rounds of focus testing somehow
 
 before next laser day
-- vacuum dust out of rails and drive belts
-- belt tensioning
 - clean down the air assist slats and lens
 - soak and clean slats and tray
 - sort out the requisite damp cloth
@@ -20,26 +18,21 @@ next laser day
 - run speed/power/passes testing
   - test a grid around 1000/80/2 in 3mm pine, then 1500/75/3. (baseline 650/100/1, but there are faster ones that got almost through, so 1000 is probably not the max)
   - 6mm say a baseline might be 200/100/1, but 400-600/100/2 just gets charred and goes nowhere. start with the clean cut result from 3mm, 1.5x the passes and 0.7x the speed. grid it out from there.
-  - figure out the fastest allowable single pass engraving without sacrificing quality.
+  - figure out the fastest allowable single pass line engraving without sacrificing quality. 
   - there are links online to other test files. 
-- do mog's thing
-- make proper corner jigs. 25 long and 20 wide seems to be the go?
-- cut a moebius strip
 - experiment with other materials, including a rock or two, and cardboard
-- run an experimental art or two
 - run the full stack of living hinge test cards
 
 eventually
 - make the camera behave like dude managed to
 - make gallery pictures linkable to their related post
-- I could do with a jig that fits around the laser head and points at exactly the laser dot location.
 - put the little hand-shaped wire holders around my table to keep wiring in place
 - set up shelf and boxes for materials
 
 critical path to production
 - use FH and lighthouse for promo art - get websites up and whatever, and I'll need svg files for those, and I'll still eventually have to make a logo for the laser side too
 - put all the product options through the laser, then post them up separately on the website, then handoff
-- file system planning
+- file system sorting out
 
 people and places to leave sample kit around
 - just friendly: downstairs with mandy, say hi to all my neighbours with house numbers on acrylic (ehhhh expensive though) or I guess we can spray finish it, give b a notebook thingy, drop a mandala on v
