@@ -1,6 +1,5 @@
 Todo:
-- figure out how to add a logo
-- idk, actually setup and run the laser
+- figure out how to add a website logo
 
 # Changelog
 
