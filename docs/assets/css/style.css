@@ -70,7 +70,8 @@
 /* Estilo para el texto encima de la imagen */
 .text {
   color: white;
-  font-size: 0.9rem;
+  font-size: 0.9rem;  
+  text-align: center;
 }
 
 /* Efecto hover */
