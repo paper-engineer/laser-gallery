@@ -1,23 +1,20 @@
 ---
 layout: post
 title: Bidirectional living hinge
-image: /assets/images/example1.jpg 
+image: /assets/images/bidirectional-hinges-2.jpg 
 tags:
   - trinkets-and-curiosities
 author: MOG
 ---
 
-take a picture of the thing, upload it, put the image in the top. tag is for build category, title is for what you made. 
-
-Couple of interesting sheets of things. I think it's just so cool. 
+An interesting sheet. I think it's just so cool. 
 
 Material: 3mm pine ply, not much to it
 
-Time: small piece 10min cut time, large piece 30min. moebius strip TBC. 
+Time: 30min (give or take)
 
-For pictures use 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
+![it bends]({{ site.url }}{{ site.baseurl }}/assets/images/bidirectional-hinges-1.jpg)
 
-Discovered that the big one is surprisingly fragile. 
+Discovered that it's surprisingly fragile. Also figured out how to use the preview window to restart an errored cut. The time I could have saved...
 
-I'll add more swatches with comments as we go. Also want to try the bendy ply with it. 
+I'll add more living hinge swatches another time. Also want to try the bendy ply with it. Various "it"s. 
