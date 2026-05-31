@@ -1,16 +1,16 @@
 photos:
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/200/300
-    quote: This is a quote
-    link: /contact/
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/200/300
-    quote: This is a quote too
-    link: /contact/
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/800/800
-    quote: This is a quote 🐬
-    link: /contact/
+  - description: Moebius strip
+    url: /assets/images/moebius-strip.jpg
+    quote: Moebius strip
+    link: /2026/05/09/moebius-strip.html
+  - description: Mog Logo
+    url: /assets/images/mog-logo.jpg
+    quote: An engraved sign for mog's renfaire booth
+    link: /2026/05/09/logo-sign.html
+  - description: Layered artwork
+    url: /assets/images/star-assembled-2.jpg
+    quote: An experimental piece of art
+    link: /2026/05/09/layered-artwork.html
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: https://picsum.photos/1200/720
     quote: This is a quote 🐬
