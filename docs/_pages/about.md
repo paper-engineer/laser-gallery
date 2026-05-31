@@ -22,14 +22,14 @@ things I want to make and/or they will probably sell
 - the monster box, just because it's fun
 - living hinges box designs, assorted. and/or bag. tbh just make a floppy sheet to play with
 - stupidly complex models you can roll marbles down. with the crank and everything.
-- business cards in alu because they're cool, okay. branding stuff.
+- business cards in alu because they're cool, okay. branding stuff. also pokemon cards
 - notebooks, like b's. specifically, make two A5 living hinge notebooks with my two available ring-binder-thingies, drop one product sample on b and the other on niki.
 - game pieces, like, catan or whatever, but also standup silhouettes
-- personalise little pieces of kit, like, water bottles and stuff
+- personalise little pieces of kit, like, water bottles and stuff. 
 - dice towers and deck holders or whatever
 - puzzles and boardgames like those fb listings
 
-obviously there are stainless tags and tumblers and whatnot. jewellery, clocks, artwork and mandalas and things. the usual. card wallets. 
+obviously there are stainless tags and tumblers and whatnot. jewellery, clocks, artwork and mandalas and things. the usual. card wallets. bottle openers. 
 
 things I have actually made get posted, this is a list of potentials. 
 
