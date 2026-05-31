@@ -1,5 +1,6 @@
 Todo:
 - figure out how to add a website logo
+- fix the side-aligned-pages to work on mobile
 
 # Changelog
 
