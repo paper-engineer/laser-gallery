@@ -23,7 +23,7 @@ photos:
     url: https://picsum.photos/400/600
     quote: This is a quote 🐬
     link: /contact/
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/300/200
-    quote: This is a quote 🐬
-    link: /contact/
+#  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+#    url: https://picsum.photos/300/200
+#    quote: This is a quote 🐬
+#    link: /contact/
