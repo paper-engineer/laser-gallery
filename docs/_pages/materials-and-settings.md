@@ -38,7 +38,7 @@ materials notes
 - Acrylic paint (water based) before or after, he uses reno art brand. I checked, resene testpots are also water based acrylic.
 - got hold downs for 3mm and 6mm, that lets it cut without getting burnback from hitting the slats, if necessary
 - no white, no clear, blue may be difficult. unknown how much trouble off-white would be.
-- also ply sheets may cut inconsistently because of the glue, knots, voids. even 3mm laser ply does this. https://tyvok.com/blogs/news/laser-cutting-and-engraving-plywood-what-grade-is-best-for-projects-2026
+- also ply sheets may cut inconsistently because of the glue, knots, voids. even 3mm laser ply does this. [source](https://tyvok.com/blogs/news/laser-cutting-and-engraving-plywood-what-grade-is-best-for-projects-2026) 
 
 ### sources of base material
 
@@ -59,6 +59,6 @@ those little stainless ae tags will need a jig. which I can make. for larger sur
 
 3mm pine is $40/sheet and you can get 18 squares out of a sheet, plus cut effort, so $2.50/sq. $60/sheet makes for $4/sq roughly. 
 
-https://www.reddit.com/r/Creality/comments/1aqug0w/falcon_2_22w_and_40w_material_guides/
+[online version of guide tables that comes with falcon](https://www.reddit.com/r/Creality/comments/1aqug0w/falcon_2_22w_and_40w_material_guides/)
 
 the pencil marks on my table say: cut 6mm basswood with 450/0.175 (I really don't know what this means). 3mm mahogany 600/100, 3mm mdf 800/100 - 500/80, s/s engrave 3000/50. 
