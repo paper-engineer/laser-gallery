@@ -46,9 +46,9 @@ DO NOT TRUST CHATGPT
 
 [list of online file libraries](https://paper-engineer.github.io/laser-gallery/file-libraries/)
 
-other lists of online file libraries: https://www.xtool.com/blogs/buyer-guide/free-laser-cut-files https://twotrees3d.com/blogs/twotrees-blog/the-best-free-websites-for-laser-cut-files-svgs-dxfs https://www.reddit.com/r/lasercutting/comments/17lz36w/where_to_find_free_svg_images/ https://www.longer3d.com/blogs/academy/the-7-best-sites-for-free-laser-cut-files-svg-dxf-in-2025 https://www.crealityfalcon.com/blogs/laser-academy/laser-cut-ornaments-svg
+other lists of online file libraries: [xtool blog](https://www.xtool.com/blogs/buyer-guide/free-laser-cut-files) [twotrees blog](https://twotrees3d.com/blogs/twotrees-blog/the-best-free-websites-for-laser-cut-files-svgs-dxfs) [reddit link](https://www.reddit.com/r/lasercutting/comments/17lz36w/where_to_find_free_svg_images/) [longer3d](https://www.longer3d.com/blogs/academy/the-7-best-sites-for-free-laser-cut-files-svg-dxf-in-2025) [creality site](https://www.crealityfalcon.com/blogs/laser-academy/laser-cut-ornaments-svg)
 
-Cross-library search: https://best-lasercutter.com/en/free-laser-templates
+[Cross-library search](https://best-lasercutter.com/en/free-laser-templates)
 
 Seriously though. I googled "download svg for laser" and got a bunch of free files, some of which can be used commercially. Got to page 5 of google results before they started repeating. 
 
@@ -69,9 +69,9 @@ it will import all layers, so save a different copy if you want to keep your wor
 
 ### online tools
 
-https://laserprofit.eu/en/ has a list of useful sites for design (like geargenerator, which is so cool) and a profit calculator
+[laser profit](https://laserprofit.eu/en/) has a list of useful sites for design (like geargenerator, which is so cool) and a profit calculator
 
-https://dupercut.com/pages/nametags this and the pet paw one are free, rest are premium. this site also comes with some free files. 
+[name tag generator](https://dupercut.com/pages/nametags) this and the pet paw one on the site are free, rest are premium. this site also comes with some free files. 
 
 hmmm living hinge generator where was that again
 
@@ -89,6 +89,6 @@ rounded slot ends is good for hinges, see how we go
 
 ## other useful links
 
-https://www.printables.com/model/620898-creality-falcon-2-focus-tool
+[3d printed focus tool](https://www.printables.com/model/620898-creality-falcon-2-focus-tool)
 
 open source photo editing software, there was a couple standouts. for product photos. idk. 
