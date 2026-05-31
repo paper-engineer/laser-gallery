@@ -7,7 +7,7 @@ layout: base
   <div class="gallery-item">
     <img src="{{ pic.url | relative_url }}" alt="{{pic.description}}" class="w-full max-w-screen-sm h-auto shadow-md">
     <div class="overlay">
-      <div class="text">{{pic.quote}}</div>
+      <div class="text"><a href="{{ pic.link | relative_url }}">{{pic.quote}}</a></div>
     </div>
   </div>
   {% endfor %}
