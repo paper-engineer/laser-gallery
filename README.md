@@ -1,5 +1,6 @@
 Todo:
 - figure out how to add a website logo
+- make the URLs in the gallery actually do something
 
 # Changelog
 
