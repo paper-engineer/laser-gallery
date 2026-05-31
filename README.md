@@ -1,8 +1,9 @@
 Todo:
 - figure out how to add a website logo
-- fix the side-aligned-pages to work on mobile
 
 # Changelog
+
+31/5/2026: made the side-aligned pages work on mobile (probably)
 
 24/4/2026: filled in a bunch of info, got poking at text formatting to make the info readable
 
