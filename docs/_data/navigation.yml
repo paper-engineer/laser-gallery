@@ -2,9 +2,9 @@
   link: /about/
 - name: Gallery
   link: /gallery/
-- name: Contact
-  link: /contact/
 - name: Portfolio
   link: /tags/
+- name: Contact
+  link: /contact/
 - name: Resources
   link: /resources/
