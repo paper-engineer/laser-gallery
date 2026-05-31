@@ -11,18 +11,14 @@ photos:
     url: /assets/images/star-assembled-2.jpg
     quote: An experimental piece of art
     link: /2026/05/09/layered-artwork.html
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/1200/720
-    quote: This is a quote 🐬
-    link: /contact/
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/600/600
-    quote: This is a quote 🐬
-    link: /contact/
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/400/600
-    quote: This is a quote 🐬
-    link: /contact/
+  - description: Dice tower
+    url: /assets/images/bg-dice-tower.jpg
+    quote: A dice tower with wingspan art on it
+    link: /2026/04/19/boardgame-inserts.html
+  - description: Bidirectional living hinge
+    url: /assets/images/bidirectional-hinges-2.jpg
+    quote: Wood that behaves like cardboard
+    link: /2026/04/26/living-hinges.html
 #  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
 #    url: https://picsum.photos/300/200
 #    quote: This is a quote 🐬
